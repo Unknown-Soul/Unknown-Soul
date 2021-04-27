@@ -14,18 +14,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-PROGRAMMING LANGUAGE : Java, C, Python
-WEB TECHNOLOGIES : HTML5, CSS3, JavaScript
-LIBRARIES PROFFICIENT : beautiful soup 
-FRAMEWORKS : Django, Laravel, Scrapy, Selenium, Flutter
-OPERATING SYSTEM : Windows, Linux (Debian) 
-HANDS-ON-TOOLS : Eclipse IDE, Visual Studio Code, Microsoft Office, Wordpress, Nano
-PENTESTING TOOLS : Burp suite, Nmap, Metasploit, Wireshark 
-DATABASE : MySQL, Firebase
-OTHER : Docker, Git 
+**PROGRAMMING LANGUAGE :** Java, C, Python
 
+**WEB TECHNOLOGIES :** HTML5, CSS3, JavaScript
 
-Work
+**LIBRARIES PROFFICIENT :** beautiful soup 
+
+**FRAMEWORKS :** Django, Laravel, Scrapy, Selenium, Flutter
+
+**OPERATING SYSTEM :** Windows, Linux (Debian) 
+
+**HANDS-ON-TOOLS :** Eclipse IDE, Visual Studio Code, Microsoft Office, Wordpress, Nano
+
+**PENTESTING TOOLS :** Burp suite, Nmap, Metasploit, Wireshark 
+
+**DATABASE :** MySQL, Firebase
+
+**OTHER :** Docker, Git 
+
+__________________________________________________________________________________________________________________________________________________
+__________________________________________________________________________________________________________________________________________________
+**Work**
 
 Major Degree Core Development single headedly undertaken project “Reception Management System (For Dimension 
 Redefine).” Major functionalities include: -
