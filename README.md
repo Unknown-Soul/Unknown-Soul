@@ -53,4 +53,4 @@ Developed A Python based tool to extract subdomains and URLs of any domain by sc
 common crawl and AlienVault open-source threat intelligence platform through their APIs and showing them in 
 proper files by eliminating any repetitive data.
  
-Technology – Flutter | Python | Wayback API| Otx API | common crawl API Year – 202
+Technology – Flutter | Python | Wayback API| Otx API | common crawl API Year – 2020
