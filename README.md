@@ -31,7 +31,8 @@ Redefine).” Major functionalities include: -
 • Digitizing the day-to-day functions for the Institution to make the existing process easier.
 • Management of faculty information, student information and linkage to Database.
 
-Technology - JAVA | MySQL Year- 2017__________________________________________________________________________________________________________________________________________________
+Technology - JAVA | MySQL Year- 2017
+__________________________________________________________________________________________________________________________________________________
 Developed a “Terminal Based Client Server Application” with a team size of 3 members. Major functionalities being 
 usage of SSH encryption for communication channel and authentication management. This tool runs directly on bash shell 
 using tool called Tmux.
