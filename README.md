@@ -15,24 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 **PROGRAMMING LANGUAGE :** Java, C, Python
-
 **WEB TECHNOLOGIES :** HTML5, CSS3, JavaScript
-
 **LIBRARIES PROFFICIENT :** beautiful soup 
-
 **FRAMEWORKS :** Django, Laravel, Scrapy, Selenium, Flutter
-
 **OPERATING SYSTEM :** Windows, Linux (Debian) 
-
 **HANDS-ON-TOOLS :** Eclipse IDE, Visual Studio Code, Microsoft Office, Wordpress, Nano
-
 **PENTESTING TOOLS :** Burp suite, Nmap, Metasploit, Wireshark 
-
 **DATABASE :** MySQL, Firebase
-
 **OTHER :** Docker, Git 
-
-__________________________________________________________________________________________________________________________________________________
 __________________________________________________________________________________________________________________________________________________
 **Work**
 
