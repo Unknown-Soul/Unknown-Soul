@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 **OTHER :** Docker, Git 
 __________________________________________________________________________________________________________________________________________________
 **Work**
-
+<!-- 
 Major Degree Core Development single headedly undertaken project “Reception Management System (For Dimension 
 Redefine).” Major functionalities include: -
 • Digitizing the day-to-day functions for the Institution to make the existing process easier.
@@ -53,4 +53,4 @@ Developed A Python based tool to extract subdomains and URLs of any domain by sc
 common crawl and AlienVault open-source threat intelligence platform through their APIs and showing them in 
 proper files by eliminating any repetitive data.
  
-Technology – Flutter | Python | Wayback API| Otx API | common crawl API Year – 2020
+Technology – Flutter | Python | Wayback API| Otx API | common crawl API Year – 2020 -->
